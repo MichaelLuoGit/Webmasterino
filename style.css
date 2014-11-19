@@ -1,0 +1,55 @@
+body {
+	margin: 0;
+	background-color: #FF0;
+}
+#banner{
+	position: fixed;
+	width: 100%;
+	height: 50px;
+	background-color: #00F;
+}
+
+#image{
+	position: fixed;
+	border-radius: 25px;
+	width: 200px;
+	height: 200px;
+	top: 200px;
+	left: 40px;
+}
+#searchbox{
+	text-align: left;
+	float: right;
+	margin-right: 100px;
+}
+#text{
+	position: fixed;
+	width: 200px;
+	height: 200px;
+	background-color: #CCC;
+	top: 400px;
+	left: 40px;
+}
+#content{
+	padding-top: 75px;
+	width: 750px;
+		margin-left: 15%
+}
+#bigimage{
+	width: 1000px;
+	height: 300px;
+}
+#status{
+	float: right;
+	width: 650px;
+	height: 100px;
+	background-color: #AAA;
+	margin-bottom: 25px;
+}
+#feed{
+	float: right;
+	height: 20000px;
+	background-color: #BBB;
+	width: 650px;
+	padding-top: 25px;
+}
